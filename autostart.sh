@@ -8,3 +8,4 @@ swaybg -i "$WALLPAPER_PATH" -o '*' &
 swaync &
 waybar &
 nm-applet &
+blueman-applet &
